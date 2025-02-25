@@ -9,11 +9,15 @@ Este é um projeto simples para controle de estoque, permitindo adicionar, visua
 - **Alteração de Quantidade**: Permite incrementar ou decrementar a quantidade de cada produto.
 - **Alerta de Estoque Baixo**: Produtos com estoque abaixo de 5 unidades são destacados e aparecem em uma lista de alerta.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página web.
 - **CSS**: Estilos básicos para a aparência da aplicação.
 - **JavaScript**: Lógica para adicionar, atualizar e gerenciar o estoque dos produtos.
+- **API (em desenvolvimento)**: Para integração futura com o sistema, melhorando a escalabilidade e a performance.
+- **Mobile Version**: Melhorias em andamento para garantir uma versão responsiva para dispositivos móveis.
+
+---
 
 ## Como Usar
 
